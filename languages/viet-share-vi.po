@@ -1,0 +1,127 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi_VN\n"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:66
+msgid "Add Official Account ID"
+msgstr "Thêm Zalo Official Account ID"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:39
+msgid "Border styles"
+msgstr "Kiểu đường viền"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:12
+msgid "Change color"
+msgstr "Thay đổi màu sắc"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:30
+msgid "Display location"
+msgstr "Vị trí hiển thị"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:21
+msgid "Effects on hover"
+msgstr "Hiệu ứng khi di chuột vào"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:76
+msgid "Hidden"
+msgstr "Ẩn"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:52
+msgid "Hidden Facebook"
+msgstr "Ẩn Facebook"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:58
+msgid "Hidden Pinterest"
+msgstr "Ẩn Pinterest"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:55
+msgid "Hidden Twitter"
+msgstr "Ẩn Twitter"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:61
+msgid "Hidden Zalo"
+msgstr "Ẩn Zalo"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:73
+msgid "Hide auto show"
+msgstr "Ẩn tự động hiển thị"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:50
+msgid "Hide social icons"
+msgstr "Ẩn biểu tượng chia sẻ"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:74
+msgid "Hide to use the code shortcode below."
+msgstr "Ẩn để sử dụng mã shortcode bên dưới."
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:67
+msgid "Must enter the OAID code, Zalo can operate."
+msgstr "Cần nhập mã OAID, thì Zalo mới có thể hoạt động"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:83
+msgid "Save settings"
+msgstr "Lưu cài đặt"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:10
+msgid "Set up the options below"
+msgstr "Thiếp lập các tùy chọn bên dưới"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:85
+msgid "Thank you for using our plugin"
+msgstr "Cảm ơn bạn đã sử dụng plugin"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:77
+msgid "Using Shortcode, add the position you want to display"
+msgstr "Sử dụng Shortcode, thêm vị trí mà bạn muốn hiển thị"
+
+#. Text in function
+#: Viet-share/inc/vietshare-admin-page.php:7
+msgid "VIET SHARE SETTINGS"
+msgstr "CÀI ĐẶT VIET SHARE"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:78
+msgid ""
+"You can use the shortcode below to paste in your post, or code where you "
+"want to display the Viet share."
+msgstr ""
+"Bạn có thể sử dụng shortcode dưới đây để dán vào bài viết của bạn, hoặc "
+"code trang php mà bạn muốn hiển thị phần Viet share."
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:68
+msgid "Zalo OAID:"
+msgstr "Zalo OAID:"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:85
+msgid "by"
+msgstr "bởi"

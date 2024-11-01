@@ -1,0 +1,51 @@
+.share{margin-top:20px;margin-bottom:10px;} .share a{margin-right:7px;text-decoration: none;border:none;box-shadow:0px 0px 0px;} 
+.iconshare{margin-bottom:-5px;}
+.zalo-share-button{cursor: pointer;}
+.share-f, .share-t, .share-p, .zalo-share-button{background:#0c0;width:40px;height:40px;padding: 0px;display:inline-block;text-decoration:none !important;box-shadow: 0px 0px 0px !important;}
+.share-f img, .share-t img, .share-p img, .zalo-share-button img{width:28px;vertical-align: inherit;margin: 6px !important;box-shadow: 0px 0px 0px !important;}
+/* Blue */
+.share-f.Blue, .share-t.Blue, .share-p.Blue, .zalo-share-button.Blue{background:#005AD9;}
+/* Green */
+.share-f.Green, .share-t.Green, .share-p.Green, .zalo-share-button.Green{background:#4F9D01;}
+/* Black */
+.share-f.Black, .share-t.Black, .share-p.Black, .zalo-share-button.Black{background:#373737;}
+/* Moss */
+.share-f.Moss, .share-t.Moss, .share-p.Moss, .zalo-share-button.Moss{background:#7A822C;}
+/* Nature */ 
+.share-f.Nature{background:#38529a;} 
+.share-t.Nature{background:#4da6e9;} 
+.share-p.Nature{background:#e71a21;} 
+.zalo-share-button.Nature{background:#017cc1;} 
+/* Jade */
+.share-f.Jade, .share-t.Jade, .share-p.Jade, .zalo-share-button.Jade{background:none;border:1px solid #00a4d6;}
+.share-f.Jade img, .share-t.Jade img, .share-p.Jade img, .zalo-share-button.Jade img{filter: invert(50%) sepia(84%) saturate(3904%) hue-rotate(165deg) brightness(101%) contrast(101%);}
+/* Quartz */ 
+.share-f.Quartz, .share-t.Quartz, .share-p.Quartz, .zalo-share-button.Quartz{background:#fff;border:1px solid #999;}
+.share-f.Quartz img, .share-t.Quartz img, .share-p.Quartz img, .zalo-share-button.Quartz img{filter: invert(1);}
+/* Sky */
+.share-f.Sky, .share-t.Sky, .share-p.Sky, .zalo-share-button.Sky{background:none;border:1px solid #00c3a8;}
+.share-f.Sky img, .share-t.Sky img, .share-p.Sky img, .zalo-share-button.Sky img{filter: invert(45%) sepia(67%) saturate(1280%) hue-rotate(138deg) brightness(102%) contrast(101%);}
+/* Icon */
+.share-f.Icon, .share-t.Icon, .share-p.Icon, .zalo-share-button.Icon{background:none;border:none;margin:0px}
+.share-f.Icon img, .share-t.Icon img, .share-p.Icon img, .zalo-share-button.Icon img{filter: invert(1);}
+.share-f.Icon2, .share-t.Icon2, .share-p.Icon2, .zalo-share-button.Icon2{background:none;border:none;margin:0px}
+.share-f.Icon2 img, .share-t.Icon2 img, .share-p.Icon2 img, .zalo-share-button.Icon2 img{filter: invert(50%) sepia(84%) saturate(3904%) hue-rotate(165deg) brightness(101%) contrast(101%);}
+.share-f.Icon3, .share-t.Icon3, .share-p.Icon3, .zalo-share-button.Icon3{background:none;border:none;margin:0px;}
+.share-f.Icon3 img, .share-t.Icon3 img, .share-p.Icon3 img, .zalo-share-button.Icon3 img{filter: invert(42%) sepia(61%) saturate(4379%) hue-rotate(339deg) brightness(106%) contrast(101%);}
+/* Pro */ 
+.share-f.Pro, .share-t.Pro, .share-p.Pro, .zalo-share-button.Pro{background: linear-gradient(87deg, rgb(19 164 185) 0%, rgb(0 255 20) 100%);}
+.share-f.Pro2, .share-t.Pro2, .share-p.Pro2, .zalo-share-button.Pro2{background: linear-gradient(87deg, rgb(238 18 255) 0%, rgb(86 0 255) 100%);}
+.share-f.Pro3, .share-t.Pro3, .share-p.Pro3, .zalo-share-button.Pro3{background: linear-gradient(87deg, rgb(19 19 19) 0%, rgb(162 162 162) 100%);}
+.share-f.Pro4, .share-t.Pro4, .share-p.Pro4, .zalo-share-button.Pro4{background: linear-gradient(87deg, rgb(212 0 176) 0%, rgb(0 166 245) 100%);}
+.share-f.Pro5, .share-t.Pro5, .share-p.Pro5, .zalo-share-button.Pro5{background: linear-gradient(87deg, rgb(5 61 249) 0%, rgb(0 233 245) 100%);}
+/* tron vuong la */
+.share .Round{border-radius:100%;}
+.share .Square{border-radius:2px;}
+.share .Leaves{border-radius:20px 2px 20px 2px;}
+.share .Mushroom{border-radius:20px 20px 20px 2px;}
+.share .light{border-radius:20px 20px 2px 2px;}
+/* hieu ung hover */
+.iconshare.Opacity a:hover{opacity:0.6}
+.iconshare.Zoom a:hover{transform: scale(1.2);}
+.iconshare.Blur a:hover{filter: blur(1px);}
+.iconshare.Shadow a:hover{    filter: drop-shadow(0px 0px 5px #222);}

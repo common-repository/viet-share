@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:66
+msgid "Add Official Account ID"
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:39
+msgid "Border styles"
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:12
+msgid "Change color"
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:30
+msgid "Display location"
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:21
+msgid "Effects on hover"
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:76
+msgid "Hidden"
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:52
+msgid "Hidden Facebook"
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:58
+msgid "Hidden Pinterest"
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:55
+msgid "Hidden Twitter"
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:61
+msgid "Hidden Zalo"
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:73
+msgid "Hide auto show"
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:50
+msgid "Hide social icons"
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:74
+msgid "Hide to use the code shortcode below."
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:67
+msgid "Must enter the OAID code, Zalo can operate."
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:83
+msgid "Save settings"
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:10
+msgid "Set up the options below"
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:85
+msgid "Thank you for using our plugin"
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:77
+msgid "Using Shortcode, add the position you want to display"
+msgstr ""
+
+#. Text in function
+#: Viet-share/inc/vietshare-admin-page.php:7
+msgid "VIET SHARE SETTINGS"
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:78
+msgid "You can use the shortcode below to paste in your post, or code where you want to display the Viet share."
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:68
+msgid "Zalo OAID:"
+msgstr ""
+
+#. Text in echo
+#: Viet-share/inc/vietshare-admin-page.php:85
+msgid "by"
+msgstr ""
